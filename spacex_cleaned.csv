@@ -1,0 +1,206 @@
+mission_name,launch_date,rocket_name,payload_mass,orbit,site_name,location,success
+FalconSat,2006-03-24T22:30:00.000Z,Falcon 1,20.0,LEO,Kwajalein Atoll,Omelek Island,False
+DemoSat,2007-03-21T01:10:00.000Z,Falcon 1,,LEO,Kwajalein Atoll,Omelek Island,False
+Trailblazer,2008-08-03T03:34:00.000Z,Falcon 1,,LEO,Kwajalein Atoll,Omelek Island,False
+RatSat,2008-09-28T23:15:00.000Z,Falcon 1,165.0,LEO,Kwajalein Atoll,Omelek Island,True
+RazakSat,2009-07-13T03:35:00.000Z,Falcon 1,200.0,LEO,Kwajalein Atoll,Omelek Island,True
+Falcon 9 Test Flight,2010-06-04T18:45:00.000Z,Falcon 9,,LEO,CCSFS SLC 40,Cape Canaveral,True
+COTS 1,2010-12-08T15:43:00.000Z,Falcon 9,,LEO,CCSFS SLC 40,Cape Canaveral,True
+COTS 2,2012-05-22T07:44:00.000Z,Falcon 9,525.0,LEO,CCSFS SLC 40,Cape Canaveral,True
+CRS-1,2012-10-08T00:35:00.000Z,Falcon 9,400.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+CRS-2,2013-03-01T19:10:00.000Z,Falcon 9,677.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+CASSIOPE,2013-09-29T16:00:00.000Z,Falcon 9,500.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+SES-8,2013-12-03T22:41:00.000Z,Falcon 9,3170.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Thaicom 6,2014-01-06T18:06:00.000Z,Falcon 9,3325.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+CRS-3,2014-04-18T19:25:00.000Z,Falcon 9,2296.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+OG-2 Mission 1,2014-07-14T15:15:00.000Z,Falcon 9,1316.0,LEO,CCSFS SLC 40,Cape Canaveral,True
+AsiaSat 8,2014-08-05T08:00:00.000Z,Falcon 9,4535.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+AsiaSat 6,2014-09-07T05:00:00.000Z,Falcon 9,4428.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+CRS-4,2014-09-21T05:52:00.000Z,Falcon 9,2216.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+CRS-5,2015-01-10T09:47:00.000Z,Falcon 9,2395.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+DSCOVR,2015-02-11T23:03:00.000Z,Falcon 9,570.0,ES-L1,CCSFS SLC 40,Cape Canaveral,True
+ABS-3A / Eutelsat 115W B,2015-03-02T03:50:00.000Z,Falcon 9,1954.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+CRS-6,2015-04-14T20:10:00.000Z,Falcon 9,1898.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+TürkmenÄlem 52°E / MonacoSAT,2015-04-27T23:03:00.000Z,Falcon 9,4707.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+CRS-7,2015-06-28T14:21:00.000Z,Falcon 9,2477.0,ISS,CCSFS SLC 40,Cape Canaveral,False
+OG-2 Mission 2,2015-12-22T01:29:00.000Z,Falcon 9,2034.0,LEO,CCSFS SLC 40,Cape Canaveral,True
+Jason 3,2016-01-17T15:42:00.000Z,Falcon 9,553.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+SES-9,2016-03-04T23:35:00.000Z,Falcon 9,5271.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+CRS-8,2016-04-08T20:43:00.000Z,Falcon 9,3136.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+JCSAT-2B,2016-05-06T05:21:00.000Z,Falcon 9,4696.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Thaicom 8,2016-05-27T21:39:00.000Z,Falcon 9,3100.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+ABS-2A / Eutelsat 117W B,2016-06-15T14:29:00.000Z,Falcon 9,1800.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+CRS-9,2016-07-18T04:45:00.000Z,Falcon 9,2257.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+JCSAT-16,2016-08-14T05:26:00.000Z,Falcon 9,4600.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Amos-6,2016-09-01T13:07:00.000Z,Falcon 9,5500.0,GTO,CCSFS SLC 40,Cape Canaveral,False
+Iridium NEXT Mission 1,2017-01-14T17:54:00.000Z,Falcon 9,9600.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+CRS-10,2017-02-19T14:39:00.000Z,Falcon 9,2490.0,ISS,KSC LC 39A,Cape Canaveral,True
+EchoStar 23,2017-03-16T06:00:00.000Z,Falcon 9,5600.0,GTO,KSC LC 39A,Cape Canaveral,True
+SES-10,2017-03-30T22:27:00.000Z,Falcon 9,5300.0,GTO,KSC LC 39A,Cape Canaveral,True
+NROL-76,2017-05-01T11:15:00.000Z,Falcon 9,,LEO,KSC LC 39A,Cape Canaveral,True
+Inmarsat-5 F4,2017-05-15T23:21:00.000Z,Falcon 9,6070.0,GTO,KSC LC 39A,Cape Canaveral,True
+CRS-11,2017-06-03T21:07:00.000Z,Falcon 9,2708.0,ISS,KSC LC 39A,Cape Canaveral,True
+BulgariaSat-1,2017-06-23T19:10:00.000Z,Falcon 9,3669.0,GTO,KSC LC 39A,Cape Canaveral,True
+Iridium NEXT Mission 2,2017-06-25T20:25:00.000Z,Falcon 9,9600.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Intelsat 35e,2017-07-05T23:35:00.000Z,Falcon 9,6761.0,GTO,KSC LC 39A,Cape Canaveral,True
+CRS-12,2017-08-14T16:31:00.000Z,Falcon 9,2910.0,ISS,KSC LC 39A,Cape Canaveral,True
+FormoSat-5,2017-08-24T18:50:00.000Z,Falcon 9,475.0,SSO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Boeing X-37B OTV-5,2017-09-07T13:50:00.000Z,Falcon 9,4990.0,LEO,KSC LC 39A,Cape Canaveral,True
+Iridium NEXT Mission 3,2017-10-09T12:37:00.000Z,Falcon 9,9600.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+SES-11 / Echostar 105,2017-10-11T22:53:00.000Z,Falcon 9,5200.0,GTO,KSC LC 39A,Cape Canaveral,True
+KoreaSat 5A,2017-10-30T19:34:00.000Z,Falcon 9,3700.0,GTO,KSC LC 39A,Cape Canaveral,True
+CRS-13,2017-12-15T15:36:00.000Z,Falcon 9,2205.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+Iridium NEXT Mission 4,2017-12-23T01:27:23.000Z,Falcon 9,9600.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+ZUMA,2018-01-08T01:00:00.000Z,Falcon 9,,LEO,CCSFS SLC 40,Cape Canaveral,True
+SES-16 / GovSat-1,2018-01-31T21:25:00.000Z,Falcon 9,4230.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Falcon Heavy Test Flight,2018-02-06T20:45:00.000Z,Falcon Heavy,1350.0,HCO,KSC LC 39A,Cape Canaveral,True
+Paz / Starlink Demo,2018-02-22T14:17:00.000Z,Falcon 9,1350.0,SSO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Hispasat 30W-6,2018-03-06T05:33:00.000Z,Falcon 9,6092.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Iridium NEXT Mission 5,2018-03-30T14:13:51.000Z,Falcon 9,9600.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+CRS-14,2018-04-02T20:30:41.000Z,Falcon 9,2760.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+TESS,2018-04-18T22:51:00.000Z,Falcon 9,350.0,HEO,CCSFS SLC 40,Cape Canaveral,True
+Bangabandhu-1,2018-05-11T20:14:00.000Z,Falcon 9,3750.0,GTO,KSC LC 39A,Cape Canaveral,True
+Iridium NEXT Mission 6,2018-05-22T19:47:58.000Z,Falcon 9,4300.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+SES-12,2018-06-04T04:45:00.000Z,Falcon 9,5383.85,GTO,CCSFS SLC 40,Cape Canaveral,True
+CRS-15,2018-06-29T09:42:00.000Z,Falcon 9,2410.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+Telstar 19V,2018-07-22T05:50:00.000Z,Falcon 9,7076.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Iridium NEXT Mission 7,2018-07-25T11:39:26.000Z,Falcon 9,9600.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Merah Putih,2018-08-07T05:18:00.000Z,Falcon 9,5800.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Telstar 18V,2018-09-10T04:45:00.000Z,Falcon 9,7060.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+SAOCOM 1A,2018-10-08T02:22:00.000Z,Falcon 9,2800.0,SSO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Es’hail 2,2018-11-15T20:46:00.000Z,Falcon 9,3000.0,GTO,KSC LC 39A,Cape Canaveral,True
+SSO-A,2018-12-03T18:34:00.000Z,Falcon 9,4000.0,SSO,VAFB SLC 4E,Vandenberg Space Force Base,True
+CRS-16,2018-12-05T18:16:00.000Z,Falcon 9,2573.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+GPS III SV01,2018-12-23T13:51:00.000Z,Falcon 9,4400.0,MEO,CCSFS SLC 40,Cape Canaveral,True
+Iridium NEXT Mission 8,2019-01-11T15:31:00.000Z,Falcon 9,9600.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Nusantara Satu (PSN-6) / S5 / Beresheet,2019-02-22T01:45:00.000Z,Falcon 9,5000.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+CCtCap Demo Mission 1,2019-03-02T07:45:00.000Z,Falcon 9,12259.0,ISS,KSC LC 39A,Cape Canaveral,True
+ArabSat 6A,2019-04-11T22:35:00.000Z,Falcon Heavy,6000.0,GTO,KSC LC 39A,Cape Canaveral,True
+CRS-17,2019-05-04T06:48:00.000Z,Falcon 9,2482.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+Starlink v0.9,2019-05-24T02:30:00.000Z,Falcon 9,13200.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+RADARSAT Constellation,2019-06-12T14:17:00.000Z,Falcon 9,1425.0,SSO,VAFB SLC 4E,Vandenberg Space Force Base,True
+STP-2,2019-06-25T03:30:00.000Z,Falcon Heavy,600.0,MEO,KSC LC 39A,Cape Canaveral,True
+CRS-18,2019-07-25T22:01:00.000Z,Falcon 9,2227.7,ISS,CCSFS SLC 40,Cape Canaveral,True
+Amos-17,2019-08-06T22:52:00.000Z,Falcon 9,6500.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-1,2019-11-11T14:56:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+CRS-19,2019-12-05T17:29:23.000Z,Falcon 9,5000.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+JCSat 18 / Kacific 1,2019-12-17T00:10:00.000Z,Falcon 9,6800.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-2,2020-01-07T02:19:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Crew Dragon In Flight Abort Test,2020-01-19T14:00:00.000Z,Falcon 9,,SO,KSC LC 39A,Cape Canaveral,True
+Starlink-3,2020-01-29T14:06:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-4,2020-02-17T15:05:55.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+CRS-20,2020-03-07T04:50:31.000Z,Falcon 9,1977.0,ISS,CCSFS SLC 40,Cape Canaveral,True
+Starlink-5,2020-03-18T12:16:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink-6,2020-04-22T19:30:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+CCtCap Demo Mission 2,2020-05-30T19:22:00.000Z,Falcon 9,9525.0,ISS,KSC LC 39A,Cape Canaveral,True
+Starlink-7,2020-06-04T01:25:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-8 & SkySat 16-18,2020-06-13T09:21:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+GPS III SV03 (Columbus),2020-06-30T19:55:00.000Z,Falcon 9,3880.0,MEO,CCSFS SLC 40,Cape Canaveral,True
+ANASIS-II,2020-07-20T21:30:00.000Z,Falcon 9,,GEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-9 (v1.0) & BlackSky Global 5-6,2020-08-07T05:12:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink-10 (v1.0) & SkySat 19-21,2020-08-18T14:31:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+"SAOCOM 1B, GNOMES-1, Tyvak-0172",2020-08-30T23:18:00.000Z,Falcon 9,1600.0,SSO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-11 (v1.0),2020-09-03T12:46:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink-12 (v1.0),2020-10-06T11:29:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink-13 (v1.0),2020-10-18T12:25:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink-14 (v1.0),2020-10-24T15:31:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+GPS III SV04 (Sacagawea),2020-11-05T23:24:00.000Z,Falcon 9,3681.0,MEO,CCSFS SLC 40,Cape Canaveral,True
+Crew-1,2020-11-16T00:27:00.000Z,Falcon 9,,ISS,KSC LC 39A,Cape Canaveral,True
+Sentinel-6 Michael Freilich,2020-11-21T17:17:00.000Z,Falcon 9,1440.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Starlink-15 (v1.0),2020-11-25T02:13:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+CRS-21,2020-12-06T16:17:00.000Z,Falcon 9,2972.0,ISS,KSC LC 39A,Cape Canaveral,True
+SXM-7,2020-12-13T17:30:00.000Z,Falcon 9,7000.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+NROL-108,2020-12-19T14:00:00.000Z,Falcon 9,,,KSC LC 39A,Cape Canaveral,True
+Turksat 5A,2021-01-08T02:15:00.000Z,Falcon 9,3500.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-16 (v1.0),2021-01-20T13:02:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Transporter-1,2021-01-24T15:00:00.000Z,Falcon 9,,SSO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-18 (v1.0),2021-02-04T06:19:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-19 (v1.0),2021-02-16T03:59:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-17 (v1.0),2021-03-04T08:24:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink-20 (v1.0),2021-03-11T08:13:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-21 (v1.0),2021-03-14T10:01:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink-22 (v1.0),2021-03-24T08:28:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-23 (v1.0),2021-04-07T16:34:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Crew-2,2021-04-23T09:49:00.000Z,Falcon 9,,ISS,KSC LC 39A,Cape Canaveral,True
+Starlink-24 (v1.0),2021-04-29T03:44:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-25 (v1.0),2021-05-04T19:01:00.000Z,Falcon 9,15600.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink-27 (v1.0),2021-05-09T06:42:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink-26 (v1.0) + Capella-6 + Tyvak-0130,2021-05-15T22:54:00.000Z,Falcon 9,13520.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink-28 (v1.0),2021-05-26T18:59:00.000Z,Falcon 9,15600.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+CRS-22 & IROSA,2021-06-03T17:29:00.000Z,Falcon 9,3328.0,ISS,KSC LC 39A,Cape Canaveral,True
+SXM-8,2021-06-06T04:26:00.000Z,Falcon 9,7000.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+GPS III SV05,2021-06-17T16:09:00.000Z,Falcon 9,3681.0,MEO,CCSFS SLC 40,Cape Canaveral,True
+Transporter-2,2021-06-30T19:31:00.000Z,Falcon 9,,SSO,CCSFS SLC 40,Cape Canaveral,True
+CRS-23,2021-08-29T07:14:00.000Z,Falcon 9,,ISS,KSC LC 39A,Cape Canaveral,True
+Starlink 2-1 (v1.5),2021-09-14T03:55:00.000Z,Falcon 9,15600.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Inspiration4,2021-09-16T00:02:00.000Z,Falcon 9,,LEO,KSC LC 39A,Cape Canaveral,True
+Crew-3,2021-11-11T02:03:00.000Z,Falcon 9,12519.0,ISS,KSC LC 39A,Cape Canaveral,True
+Starlink 4-1 (v1.5),2021-11-13T12:40:00.000Z,Falcon 9,13260.0,LEO,CCSFS SLC 40,Cape Canaveral,True
+DART,2021-11-24T06:20:00.000Z,Falcon 9,670.0,TLI,VAFB SLC 4E,Vandenberg Space Force Base,True
+Starlink 4-3 (v1.5),2021-12-01T23:20:00.000Z,Falcon 9,13260.0,PO,CCSFS SLC 40,Cape Canaveral,True
+IXPE,2021-12-09T06:00:00.000Z,Falcon 9,330.0,LEO,KSC LC 39A,Cape Canaveral,True
+Starlink 4-4 (v1.5),2021-12-18T12:41:40.000Z,Falcon 9,13260.0,PO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Türksat 5B,2021-12-19T03:58:00.000Z,Falcon 9,3500.0,GTO,CCSFS SLC 40,Cape Canaveral,True
+CRS-24,2021-12-21T10:06:00.000Z,Falcon 9,,ISS,KSC LC 39A,Cape Canaveral,True
+Starlink 4-5 (v1.5),2022-01-06T21:49:00.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Transporter-3,2022-01-13T15:25:00.000Z,Falcon 9,,LEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-6 (v1.5),2022-01-19T00:04:00.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+CSG-2,2022-01-31T23:11:12.000Z,Falcon 9,2240.0,SSO,CCSFS SLC 40,Cape Canaveral,True
+NROL-87,2022-02-02T20:18:00.000Z,Falcon 9,,LEO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Starlink 4-7 (v1.5),2022-02-03T18:13:00.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink 4-8 (v1.5),2022-02-21T14:44:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-11 (v1.5),2022-02-25T17:12:00.000Z,Falcon 9,13260.0,VLEO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Starlink 4-9 (v1.5),2022-03-03T14:35:00.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink 4-10 (v1.5),2022-03-09T13:45:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-12 (v1.5),2022-03-19T03:24:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Transporter-4,2022-04-01T16:24:00.000Z,Falcon 9,,SSO,CCSFS SLC 40,Cape Canaveral,True
+Ax-1,2022-04-08T15:17:00.000Z,Falcon 9,,ISS,KSC LC 39A,Cape Canaveral,True
+NROL-85,2022-04-17T13:13:00.000Z,Falcon 9,,LEO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Starlink 4-14 (v1.5),2022-04-21T15:16:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Crew-4,2022-04-27T07:52:00.000Z,Falcon 9,,ISS,KSC LC 39A,Cape Canaveral,True
+Starlink 4-16 (v1.5),2022-04-29T21:27:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-17 (v1.5),2022-05-06T09:42:00.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink 4-13 (v1.5),2022-05-13T22:07:00.000Z,Falcon 9,13260.0,VLEO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Starlink 4-15 (v1.5),2022-05-14T20:40:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-18 (v1.5),2022-05-18T10:40:00.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Transporter-5,2022-05-25T18:27:00.000Z,Falcon 9,,SSO,CCSFS SLC 40,Cape Canaveral,True
+Nilesat-301,2022-06-08T21:04:00.000Z,Falcon 9,3938.0,GEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-19 (v1.5),2022-06-01T17:08:50.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+SARah 1,2022-06-18T14:19:00.000Z,Falcon 9,2200.0,SSO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Globalstar FM15,2022-06-19T04:27:00.000Z,Falcon 9,700.0,LEO,CCSFS SLC 40,Cape Canaveral,True
+SES-22,2022-06-29T21:04:00.000Z,Falcon 9,3500.0,MEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-21 (v1.5),2022-07-07T13:11:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 3-1 (v1.5),2022-07-11T01:39:00.000Z,Falcon 9,13260.0,VLEO,VAFB SLC 4E,Vandenberg Space Force Base,
+CRS-25,2022-07-15T00:44:00.000Z,Falcon 9,,ISS,KSC LC 39A,Cape Canaveral,True
+Starlink 4-22 (v1.5),2022-07-17T14:50:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 3-2 (v1.5),2022-07-21T17:13:00.000Z,Falcon 9,13260.0,VLEO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Starlink 4-25 (v1.5),2022-07-24T00:00:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+KPLO,2022-08-04T23:08:00.000Z,Falcon 9,678.0,TLI,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-26 (v1.5),2022-08-09T22:57:00.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink 3-3 (v1.5),2022-08-12T21:30:00.000Z,Falcon 9,13260.0,VLEO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Starlink 4-27 (v1.5),2022-08-19T19:24:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-23 (v1.5),2022-08-28T02:22:00.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink 3-4 (v1.5),2022-08-31T05:40:00.000Z,Falcon 9,13260.0,VLEO,VAFB SLC 4E,Vandenberg Space Force Base,True
+Starlink 4-20 (v1.5) & Sherpa LTC-2/Varuna-TDM,2022-09-05T02:09:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-2 (v1.5) & Blue Walker 3,2022-09-11T01:10:00.000Z,Falcon 9,13260.0,VLEO,KSC LC 39A,Cape Canaveral,True
+Starlink 4-34 (v1.5),2022-09-17T01:05:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Starlink 4-35 (v1.5),2022-09-24T23:30:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,True
+Crew-5,2022-10-05T16:00:00.000Z,Falcon 9,,ISS,KSC LC 39A,Cape Canaveral,True
+USSF-44,2022-11-01T13:41:00.000Z,Falcon Heavy,3700.0,GTO,KSC LC 39A,Cape Canaveral,
+Starlink 4-36 (v1.5),2022-10-20T14:50:00.000Z,Falcon 9,13260.0,VLEO,CCSFS SLC 40,Cape Canaveral,
+Galaxy 33 (15R) & 34 (12R),2022-10-08T23:05:00.000Z,Falcon 9,,,CCSFS SLC 40,Cape Canaveral,
+Hotbird 13F,2022-10-15T05:22:00.000Z,Falcon 9,,,CCSFS SLC 40,Cape Canaveral,
+Hotbird 13G,2022-11-03T03:24:00.000Z,Falcon 9,,,CCSFS SLC 40,Cape Canaveral,
+Galaxy 31 (23R) & 32 (17R),2022-11-08T00:00:00.000Z,Falcon 9,,,CCSFS SLC 40,Cape Canaveral,
+Eutelsat 10B,2022-11-15T00:00:00.000Z,Falcon 9,,,CCSFS SLC 40,Cape Canaveral,
+ispace Mission 1 & Rashid,2022-11-22T00:00:00.000Z,Falcon 9,,,CCSFS SLC 40,Cape Canaveral,
+CRS-26,2022-11-18T22:00:00.000Z,Falcon 9,,,KSC LC 39A,Cape Canaveral,
+Starlink 4-37 (v1.5),2022-11-01T00:00:00.000Z,Falcon 9,,,CCSFS SLC 40,Cape Canaveral,
+"O3b mPower 1,2",2022-11-01T00:00:00.000Z,Falcon 9,5100.0,MEO,CCSFS SLC 40,Cape Canaveral,
+SWOT,2022-12-05T00:00:00.000Z,Falcon 9,,,VAFB SLC 4E,Vandenberg Space Force Base,
+SES-18 & SES-19,2022-11-01T00:00:00.000Z,Falcon 9,,,CCSFS SLC 40,Cape Canaveral,
+Transporter-6,2022-12-01T00:00:00.000Z,Falcon 9,,,CCSFS SLC 40,Cape Canaveral,
+TTL-1,2022-12-01T00:00:00.000Z,Falcon 9,,PO,VAFB SLC 4E,Vandenberg Space Force Base,
+WorldView Legion 1 & 2,2022-12-01T00:00:00.000Z,Falcon 9,,SSO,CCSFS SLC 40,Cape Canaveral,
+Viasat-3 & Arcturus,2022-12-01T00:00:00.000Z,Falcon Heavy,,,KSC LC 39A,Cape Canaveral,
+O3b mPower 3.4,2022-12-01T00:00:00.000Z,Falcon 9,5100.0,MEO,CCSFS SLC 40,Cape Canaveral,
